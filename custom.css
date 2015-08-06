@@ -628,7 +628,7 @@ background-position: -2px -182px;
 .footer_button ul li a { padding-top:40px;min-height:70px; }
 
 
-
+.choose_food, .food_listing, .food_detail, .feedback, .restaurant_map, .info_page {  padding-bottom:160px;}
 
 }
 
